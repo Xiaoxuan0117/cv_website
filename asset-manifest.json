@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cv_website/static/css/main.1343eb18.css",
-    "main.js": "/cv_website/static/js/main.556caa66.js",
+    "main.css": "/cv_website/static/css/main.0993ddf3.css",
+    "main.js": "/cv_website/static/js/main.d45ab166.js",
     "static/media/5.png": "/cv_website/static/media/5.1a49de63e3326f9cef80.png",
     "static/media/2.png": "/cv_website/static/media/2.ef1e8b36671fb224d535.png",
     "static/media/6.png": "/cv_website/static/media/6.91e314c2e34101cc363f.png",
@@ -62,9 +62,9 @@
     "static/media/overview.png": "/cv_website/static/media/overview.60c61f7628dfeb1e606a.png",
     "static/media/slide-2-5.PNG": "/cv_website/static/media/slide-2-5.fa5c0e7866accd14543a.PNG",
     "static/media/slide-5-5.PNG": "/cv_website/static/media/slide-5-5.c712bf39bafb6a532860.PNG",
+    "static/media/Xiao_Xuan_Pan.pdf": "/cv_website/static/media/Xiao_Xuan_Pan.1dc9479b51be856feaf9.pdf",
     "static/media/footer_bg.png": "/cv_website/static/media/footer_bg.3e58f6006cffff46310e.png",
     "static/media/slide-6-2.PNG": "/cv_website/static/media/slide-6-2.c00ffe5b36db64cac779.PNG",
-    "static/media/Xiao_Xuan_Pan.pdf": "/cv_website/static/media/Xiao_Xuan_Pan.be984646aeadbb9e1d6b.pdf",
     "static/media/register.png": "/cv_website/static/media/register.fcd8a88661818c106017.png",
     "static/media/slide-6-4.PNG": "/cv_website/static/media/slide-6-4.6fbba7b9e5c45b2e3d9a.PNG",
     "static/media/slide-5-7.PNG": "/cv_website/static/media/slide-5-7.8b43e035a3aecbb1da17.PNG",
@@ -100,11 +100,11 @@
     "static/media/2-accuracy.png": "/cv_website/static/media/2-accuracy.0c7234fb3440167bb3e6.png",
     "static/media/works_ppt_004.png": "/cv_website/static/media/works_ppt_004.fd4cfb63e6782906cb42.png",
     "index.html": "/cv_website/index.html",
-    "main.1343eb18.css.map": "/cv_website/static/css/main.1343eb18.css.map",
-    "main.556caa66.js.map": "/cv_website/static/js/main.556caa66.js.map"
+    "main.0993ddf3.css.map": "/cv_website/static/css/main.0993ddf3.css.map",
+    "main.d45ab166.js.map": "/cv_website/static/js/main.d45ab166.js.map"
   },
   "entrypoints": [
-    "static/css/main.1343eb18.css",
-    "static/js/main.556caa66.js"
+    "static/css/main.0993ddf3.css",
+    "static/js/main.d45ab166.js"
   ]
 }
